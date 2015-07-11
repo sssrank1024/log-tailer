@@ -18,7 +18,7 @@ public class InodeUtil {
     }
 
     /**
-     * Get inode of a file with the absolute path.
+     * Get inode of a file with the absolute path.ssss
      * 
      * @param path
      *            path of the file
